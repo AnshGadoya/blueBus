@@ -1,4 +1,4 @@
-<img width="602" height="338" alt="image" src="https://github.com/user-attachments/assets/2205b17d-583a-4d00-bff8-207458d46664" /># 🚌 BlueBus – Online Bus Ticket Booking System
+# 🚌 BlueBus – Online Bus Ticket Booking System
 
 ## 📌 Overview
 
@@ -137,7 +137,48 @@ http://127.0.0.1:8000/
 
 ## 📸 Screenshots
 
-*(Comming Soon)*
+<h3 align="center">🚀 Splash Screen</h3>
+<p align="center">
+    <img width="700" alt="image" src="https://github.com/user-attachments/assets/48e0bdb2-009a-4261-ad3d-bad524fb6bed" />
+
+</p>
+
+<h3 align="center">🏠 Dashboard</h3>
+<p align="center">
+    <img width="700" alt="image" src="https://github.com/user-attachments/assets/94be092d-4966-4785-9bc0-b1b163f43e46" />
+
+</p>
+
+<h3 align="center">🔐 Login & 📝 Register</h3>
+<p align="center">
+<img width="45%"  alt="image" src="https://github.com/user-attachments/assets/51ea6cd9-f358-4395-8d80-c604c4f9e5cb" />
+<img width="45%" alt="image" src="https://github.com/user-attachments/assets/5bacefb3-94d4-42f6-9e0c-01f5b615c23e" />
+</p>
+
+<h3 align="center">🔍 Search Buses</h3>
+<p align="center">
+    <img width="700" alt="image" src="https://github.com/user-attachments/assets/f17ae8e2-c28b-4fc6-bedb-90e54a9c9db7" />
+
+</p>
+
+<h3 align="center">🪑 Seat Selection</h3>
+<p align="center">
+    <img width="700"  alt="image" src="https://github.com/user-attachments/assets/0ebfb352-93ac-4793-bdbc-8196a746428b" />
+
+</p>
+
+<!-- <h3 align="center">💳 Ticket Payment (QR Scan)</h3>
+<p align="center">
+    <img width="700" alt="image" src="https://github.com/user-attachments/assets/bdccc673-aa14-4853-b11f-dd9b09642b21" />
+
+</p>
+
+<h3 align="center">🎟️ Ticket Confirmation</h3>
+<p align="center">
+  <img width="700" alt="image" src="https://github.com/user-attachments/assets/a159ba50-5e61-4a39-ab72-a32f3b94173a" />
+</p> -->
+
+
 
 ---
 
